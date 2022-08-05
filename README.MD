@@ -1,10 +1,29 @@
-1 DAY - Fundamentals
+## 1 DAY - Fundamentals | Основы
 
-1.1 Syntax – introduce you to the basic Python programming syntax.
-1.2 Variables – explain to you what variables are and how to create concise and meaningful variables.
-1.3 Strings – learn about the string data and some basic string operations.
-1.4 Numbers – introduce to you the commonly-used number types including integers and floating-point numbers.
-1.5 Booleans – explain the Boolean data type, falsy and truthy values in Python.
-1.6 Constants – show you how to define constants in Python.
-1.7 Comments – learn how to make notes in your code.
-1.8 Type conversion – learn how to convert a value of one type to another e.g., converting a string to a number.
+### 1.1 Синтаксис (Syntax) 
+  
+  #### Пробелы и отступы
+  
+  #### Комментарии
+  
+  #### Разделитель операторов
+  
+  #### Идентификаторы
+  
+  #### Ключевые слова
+  
+  #### Строковые литералы
+  
+### 1.2 Variables (Переменные) — объясню вам, что такое переменные и как создавать краткие и содержательные переменные.
+
+### 1.3 Strings (Строки) – узнайте о строковых данных и некоторых основных операциях над строками.
+
+### 1.4 Numbers (Числа) – познакомить вас с часто используемыми типами чисел, включая целые (integer) числа и числа с плавающей запятой (floating points).
+
+### 1.5 Booleans (Булевые значения) – объясню логический тип данных, ложные (false) и истинные (true) значения в Python.
+
+### 1.6 Constants (Константы) – разберемся как определять константы.
+
+### 1.7 Comments (Комментарии) – узнаете, как делать заметки в коде.
+
+### 1.8 Type conversion (Преобразование типов) – узнайте, как преобразовать значение одного типа в другой, например, преобразовать строку в число.
