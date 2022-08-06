@@ -4,6 +4,20 @@
     <img src="https://assets.datacamp.com/production/tracks/12/badges/original/Python_Funamentals_2x.png?1597244755" width="200" />
 </p>
 
+## 0 Вступление
+
+[Что такое Python?]
+
+[Где и зачем применять?]
+
+[Отличия Python 2 и Python 3]
+
+[Установка Python 2 и 3 + менеджер пакетов]
+
+[Установка и настройка IDE VSCode]
+
+[Как учится и где искать информацию?]
+
 ## 1 Синтаксис
 
 [Пробелы и отступы](syntax/whitespace_Indentation.md)
