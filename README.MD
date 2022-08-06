@@ -6,17 +6,17 @@
 
 ## 1 Синтаксис
 
-[Пробелы и отступы](Syntax/Whitespace_Indentation.md)
+[Пробелы и отступы](syntax/Whitespace_Indentation.md)
 
-[Комментарии](Syntax/Comments.md)
+[Комментарии](syntax/Comments.md)
 
-[Разделитель операторов](Syntaxf/Continuation_of_statements.md)
+[Разделитель операторов](syntaxf/Continuation_of_statements.md)
 
-[Идентификаторы](Syntax/Identifiers.md)
+[Идентификаторы](syntax/Identifiers.md)
 
-[Ключевые слова](Syntax/Keywords.md)
+[Ключевые слова](syntax/Keywords.md)
 
-[Строковые литералы](Syntax/String_literals.md)
+[Строковые литералы](syntax/String_literals.md)
 
 ##  Summary  ##
 
