@@ -1,29 +1,45 @@
-## 1 DAY - Fundamentals | Основы
+# Python основы
 
-### 1.1 Синтаксис (Syntax) 
-  
-  #### Пробелы и отступы
-  
-  #### Комментарии
-  
-  #### Разделитель операторов
-  
-  #### Идентификаторы
-  
-  #### Ключевые слова
-  
-  #### Строковые литералы
-  
-### 1.2 Variables (Переменные) — объясню вам, что такое переменные и как создавать краткие и содержательные переменные.
+<p align="center">
+    <img src="https://assets.datacamp.com/production/tracks/12/badges/original/Python_Funamentals_2x.png?1597244755" width="200" />
+</p>
 
-### 1.3 Strings (Строки) – узнайте о строковых данных и некоторых основных операциях над строками.
+## 1 Синтаксис
 
-### 1.4 Numbers (Числа) – познакомить вас с часто используемыми типами чисел, включая целые (integer) числа и числа с плавающей запятой (floating points).
+[Пробелы и отступы](Syntax/Whitespace_Indentation.md)
 
-### 1.5 Booleans (Булевые значения) – объясню логический тип данных, ложные (false) и истинные (true) значения в Python.
+[Комментарии](Syntax/Comments.md)
 
-### 1.6 Constants (Константы) – разберемся как определять константы.
+[Разделитель операторов](Syntaxf/Continuation_of_statements.md)
 
-### 1.7 Comments (Комментарии) – узнаете, как делать заметки в коде.
+[Идентификаторы](Syntax/Identifiers.md)
 
-### 1.8 Type conversion (Преобразование типов) – узнайте, как преобразовать значение одного типа в другой, например, преобразовать строку в число.
+[Ключевые слова](Syntax/Keywords.md)
+
+[Строковые литералы](Syntax/String_literals.md)
+
+##  Summary  ##
+
+* A Python statement ends with a newline character.
+
+* Python uses spaces and identation to organize its code structure.
+
+* Identifiers are names that identify variables, functions, modules, classes, etc. in Python.
+
+* Comments describe why the code works. They are ingored by the Python interpreter.
+
+* Use the single quote, double-quotes, tripple-quotes, or tripple double-quotes to denote
+
+## 2 Переменные
+
+## 3 Строки
+
+## 4 Числа
+
+## 5 Булевые значения
+
+## 6 Константы
+
+## 7 Комментарии
+
+## 8 Преобразование типов
